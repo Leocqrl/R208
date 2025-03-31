@@ -1,8 +1,8 @@
 # R208
-_Analyse et Traitement de données structurées_
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+_Analyse et Traitement de données structurées_
 
 > Ce dépôt contient les travaux dirigés du cours R208 : Analyse et Traitement de données structurées. Vous y trouverez différents exercices liés à la manipulation de données en Python.
 
