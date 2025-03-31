@@ -9,6 +9,6 @@ _Analyse et Traitement de données structurées_
   - Affichage / Ajout / Modification / Fin du programme 
 - Notions de RegEx et fichiers json/yml. 
   - Fonction vérifiant un bon numéro de département.
-  - Ajout, modification de fichier yml et json convertion json -> yml.
+  - Ajout, modification de fichier yml et JSON conversion JSON vers yml.
 - Notion de sérialisation et classe.
-  - utilisation de pickle pour la sérialisation / création puis importation de la classe Client / Gestion des données client et d'un panier (shop) depuis un terminal.
+  - utilisation de pickle pour la sérialisation / création, puis importation de la classe Client / Gestion des données client et d'un panier (shop) depuis un terminal.
