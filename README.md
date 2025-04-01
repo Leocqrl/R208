@@ -13,3 +13,7 @@ _Analyse et Traitement de données structurées_
   - Ajout, modification de fichier yml et JSON conversion JSON vers yml.
 - Notion de sérialisation et classe.
   - utilisation de pickle pour la sérialisation / création, puis importation de la classe Client / Gestion des données client et d'un panier (shop) depuis un terminal.
+
+## TP
+- Application autour du Tri à bulles.
+  - Gestion d'une base de contacts depuis un terminal.
