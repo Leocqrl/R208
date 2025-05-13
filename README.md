@@ -17,3 +17,8 @@ _Analyse et Traitement de données structurées_
 ## TP
 - Application autour du Tri à bulles.
   - Gestion d'une base de contacts depuis un terminal.
+- POO / RegEx / Gestion d'erreur
+  - Vérification d'informations saisies par un utilisateur.
+- Manipulations autour de sqlite.
+  - Génération de fichiers CSV / XML / JSON / YAML depuis une base de donnée.
+  - Gestion d'une base de donnée depuis python.
